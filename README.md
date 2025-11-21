@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="icons/nkanyezi_profile_image.png" alt="Wandile Nkanyezi Ngobese" width="180" />
+</p>
+
+<p align="center">
   <a href="mailto:nkanyezingobese12@gmail.com"><img src="https://img.shields.io/badge/Email-nkanyezingobese12%40gmail.com-1e3c72?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/wandile-ngobese-a09a91186"><img src="https://img.shields.io/badge/LinkedIn-Wandile%20Ngobese-2a5298?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-South%20Africa-0f172a?style=for-the-badge&logo=google-maps&logoColor=white" />
@@ -33,6 +37,17 @@ I'm open to teaming up on projects involving:
 - Gamified Learning
 - NLP and Local-language AI
 - Creative, technical problem-solving
+
+## Tech Stack
+<p align="center">
+  <img src="icons/python.png" alt="Python" width="42" />
+  <img src="icons/c-sharp.png" alt="C#" width="42" />
+  <img src="icons/cplusplus_logo.png" alt="C++" width="42" />
+  <img src="icons/github-logo.png" alt="GitHub" width="42" />
+  <img src="icons/gmail.png" alt="Gmail" width="42" />
+  <img src="icons/linkedin.png" alt="LinkedIn" width="42" />
+  <img src="icons/south_africa_icon.png" alt="South Africa" width="42" />
+</p>
 
 ## Pinned Projects
 <p align="center">
