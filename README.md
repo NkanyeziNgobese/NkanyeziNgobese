@@ -1,4 +1,4 @@
-![Hero](https://capsule-render.vercel.app/api?type=waving&height=220&text=Wandile%20Nkanyezi%20Ngobese&fontAlign=50&fontAlignY=35&color=0:1e3c72,100:2a5298&desc=Always%20Learning%20%7C%20Always%20Experimenting&descAlignY=60&descAlign=50&animation=fadeIn)
+![Hero](https://capsule-render.vercel.app/api?type=waving&height=220&text=Wandile%20Nkanyezi%20Ngobese&fontAlign=50&fontAlignY=35&fontSize=42&color=0:1e3c72,100:2a5298&desc=Always%20Learning%20%7C%20Always%20Experimenting&descAlignY=60&descAlign=50&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2AF0FF&center=true&vCenter=true&width=780&lines=Wandile+Nkanyezi+Ngobese;AI+%7C+Sequence+Modeling+%7C+Cloud+Ontologies;Finance+%2B+Technology+Connector;Always+Learning+%26+Always+Experimenting" alt="Typing intro" />
