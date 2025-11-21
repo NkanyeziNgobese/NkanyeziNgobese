@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="icons/nkanyezi_profile_image.png" alt="Wandile Nkanyezi Ngobese" width="180" />
+  <img src="icons/nkanyezi_profile_image.png" alt="Wandile Nkanyezi Ngobese" width="180" style="border-radius:50%;" />
 </p>
 
 <p align="center">
@@ -44,9 +44,7 @@ I'm open to teaming up on projects involving:
   <img src="icons/c-sharp.png" alt="C#" width="42" />
   <img src="icons/cplusplus_logo.png" alt="C++" width="42" />
   <img src="icons/github-logo.png" alt="GitHub" width="42" />
-  <img src="icons/gmail.png" alt="Gmail" width="42" />
-  <img src="icons/linkedin.png" alt="LinkedIn" width="42" />
-  <img src="icons/south_africa_icon.png" alt="South Africa" width="42" />
+  <img src="icons/jupyter_logo.svg" alt="Jupyter" width="42" />
 </p>
 
 ## Pinned Projects
