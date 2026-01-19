@@ -53,7 +53,7 @@ I'm open to teaming up on projects involving:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NkanyeziNgobese&repo=FinancialQuest6&theme=default" />
   </a>
   <a href="https://github.com/NkanyeziNgobese/PortSimulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NkanyeziNgobese&repo=PortSimulationt&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NkanyeziNgobese&repo=PortSimulation&theme=default" />
   </a>
 </p>
 <p align="center">
