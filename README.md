@@ -52,16 +52,13 @@ I'm open to teaming up on projects involving:
   <a href="https://github.com/NkanyeziNgobese/FinancialQuest6">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NkanyeziNgobese&repo=FinancialQuest6&theme=default" />
   </a>
-  <a href="https://github.com/NkanyeziNgobese/702-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NkanyeziNgobese&repo=702-project&theme=default" />
+  <a href="https://github.com/NkanyeziNgobese/PortSimulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NkanyeziNgobese&repo=PortSimulationt&theme=default" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/NkanyeziNgobese/Pro-Health">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NkanyeziNgobese&repo=Pro-Health&theme=default" />
-  </a>
-  <a href="https://github.com/NkanyeziNgobese/NIKE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NkanyeziNgobese&repo=NIKE&theme=default" />
+  <a href="https://github.com/NkanyeziNgobese/ares_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NkanyeziNgobese&repo=ares_1&theme=default" />
   </a>
 </p>
 
