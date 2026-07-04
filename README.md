@@ -73,6 +73,9 @@ Testing strengthens how I build because it keeps me focused on reliability, edge
       <p align="center">
         <strong>Status:</strong> Private project, available on request.
       </p>
+      <p align= "center">
+        <a href="https://github.com/NkanyeziNgobese/Algo-Recall">Repository</a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -90,6 +93,9 @@ Testing strengthens how I build because it keeps me focused on reliability, edge
       </p>
       <p align="center">
         <strong>Status:</strong> Private project, available on request.
+      </p>
+      <p align="center">
+        <a href="https://github.com/NkanyeziNgobese/RouteZAR">Repository</a>
       </p>
     </td>
     <td width="50%" valign="top">
