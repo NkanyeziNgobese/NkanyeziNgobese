@@ -44,7 +44,7 @@ Testing strengthens how I build because it keeps me focused on reliability, edge
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="./financial_quest_logo.png" alt="FinancialQuest Logo" width="180" />
+        <img src="icons/financial_quest_icon.png" alt="FinancialQuest Logo" width="180" />
       </p>
       <h3 align="center">FinancialQuest</h3>
       <p><strong>Unity • C# • Firebase • OWL/RDF • SHACL • Adaptive Learning</strong></p>
@@ -60,7 +60,7 @@ Testing strengthens how I build because it keeps me focused on reliability, edge
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="./algo_recall_logo.png" alt="AlgoRecall Logo" width="180" />
+        <img src="icons/algo_recall_logo.png" alt="AlgoRecall Logo" width="180" />
       </p>
       <h3 align="center">AlgoRecall</h3>
       <p><strong>JavaScript • Learning Systems • DSA • SRS • Developer Practice</strong></p>
@@ -78,7 +78,7 @@ Testing strengthens how I build because it keeps me focused on reliability, edge
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="./routezar_logo.png" alt="RouteZAR Logo" width="180" />
+        <img src="icons/routezar_logo.png" alt="RouteZAR Logo" width="180" />
       </p>
       <h3 align="center">RouteZAR</h3>
       <p><strong>Finance Technology • Local-First Tooling • Decision Support</strong></p>
@@ -94,7 +94,7 @@ Testing strengthens how I build because it keeps me focused on reliability, edge
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="./durban_port_congestion_project.png" alt="Durban Port Congestion Project" width="320" />
+        <img src="icons/durban_port_congestion_project.png" alt="Durban Port Congestion Project" width="320" />
       </p>
       <h3 align="center">Durban Port Congestion Simulation</h3>
       <p><strong>Python • SimPy • Simulation • Data Analysis • Systems Thinking</strong></p>
